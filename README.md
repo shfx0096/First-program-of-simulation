@@ -1,7 +1,7 @@
 <h1> 
     🗂️  First-program-of-simulation  🔥
     </h1>
-# Arrival time calculation from Inter arrival Time
+# Arrival_time_calculation_from_Inter_arrival_Time
 
 Simulation is the imitation of a real-world system in order to obtain data that can be used to evaluate and improve the system’s performance.
 The arrival rate is the number of arrivals per unit of time.
